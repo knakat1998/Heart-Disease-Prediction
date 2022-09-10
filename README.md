@@ -1,8 +1,17 @@
 # Heart-Disease-Prediction
 
 
+Thus preventing Heart diseases has become more than necessary. Good data-driven systems for predicting heart diseases can improve the entire research and prevention process, making sure that more people can live healthy lives. This is where Machine Learning comes into play. Machine Learning helps in predicting the Heart diseases, and the predictions made are quite accurate.
 
+The project involved analysis of the heart disease patient dataset with proper data processing. Then, different models were trained and and predictions are made with different algorithms KNN, Decision Tree, Random Forest,SVM,Logistic Regression etc This is the jupyter notebook code and dataset I've used for my Kaggle kernel 'Binary Classification with Sklearn and Keras'
 
-In this project we are tying to predict whether the patient have disease or not.
+I've used a variety of Machine Learning algorithms, implemented in Python, to predict the presence of heart disease in a patient. This is a classification problem, with input features as a variety of parameters, and the target variable as a binary variable, predicting whether heart disease is present or not.
 
-![Diagram_of_the_human_heart_(cropped) svg](https://user-images.githubusercontent.com/89026851/189118535-dc674835-f9dd-45b4-948c-5682b1560ccc.png)
+Machine Learning algorithms used:
+
+Logistic Regression (Scikit-learn)
+Support Vector Machine (Linear) (Scikit-learn)
+K-Nearest Neighbours (Scratch)
+Decision Tree (Scikit-learn)
+
+![Untitled](https://user-images.githubusercontent.com/89026851/189472132-4c4349a2-d431-4ae0-8c85-ac31c614dc45.png)
